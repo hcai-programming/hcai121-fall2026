@@ -14,8 +14,8 @@
 ## Materials
 
 - Slides — `slides.pdf`
-- Notebook — [open in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week01/intro.ipynb)
-  *(also in this folder as `intro.ipynb`)*
+- Notebook — [open in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week01/hcai121-week1.ipynb)
+  *(also in this folder as `hcai121-week1.ipynb`)*
 
 ## In class
 
@@ -28,12 +28,13 @@ You don't need to install anything for the first class.  Colab runs in your brow
 ## This week's work
 
 - **In class:** work through the Week 1 notebook.
-- **At home — due Friday:** set up your local environment (see below) and complete the short exercise in `exercise.md`.
 - **Weekly question — due Tuesday, on ELMS:** *(link on ELMS)*
 
-- Create a free [GitHub](https://github.com) account, if you don't already have one.
-- Install Python and VS Code. *(step-by-step guide: link / handout)*
+- **At home — due Friday:** set up your local environment (see below)
+    - Create a free [GitHub](https://github.com) account, if you don't already have one.
+    - Install Python and VS Code.
 
+- Try running the different implementations of Wordle on your own computer.  Do these implementations run in a notebook on Colab?
 
 ## No LLM
 
