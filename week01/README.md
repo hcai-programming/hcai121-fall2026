@@ -13,9 +13,9 @@
 
 ## Materials
 
-- Slides — `slides.pdf`
+- Slides — `lec1-introduction.pdf`
 - Notebook — [open in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week01/hcai121-week1.ipynb)
-  *(also in this folder as `hcai121-week1.ipynb`)*
+  *(see `hcai121-week1.ipynb` in this folder)*
 
 ## In class
 
