@@ -1,0 +1,1 @@
+Please create a version of Wordle in Python.  This is the guess 5-letter word game that gives hints as follows: Letters in the correct spot are labeled green, correct letters in the wrong spot are labeled yellow, and letters not in the word labeled gray.   There should be at most 6 guesses (but that  should be something that can be changed).
