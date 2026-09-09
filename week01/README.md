@@ -8,7 +8,7 @@
 
 ## Reading
 
-- *Think Python*, 3rd ed. — **Chapter 1**
+- *Think Python*, 3rd ed. — **Chapters 1 and 2**
   (free online: <https://allendowney.github.io/ThinkPython/>)
 
 ## Materials
