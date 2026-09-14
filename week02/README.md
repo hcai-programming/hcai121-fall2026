@@ -13,7 +13,6 @@
 
 - Notebooks:
   - [open 01-functions.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week02/01-functions.ipynb)
-  - [open 02-functions-and-interfaces.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week02/02-functions-and-interfaces.ipynb)
 
 ## In class
 
