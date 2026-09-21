@@ -26,7 +26,7 @@ You don't need to install anything for the first class.  Colab runs in your brow
 
 ## This week's work
 
-- **In class:** work through the Week 2 notebook.
+- **In class:** work through the Week 3 notebooks.
 - **Weekly question — due Tuesday, on ELMS:** *(link on ELMS)*
 
 
