@@ -14,6 +14,7 @@
 - Notebooks:
   - [open rock-paper-scissors-student.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week04/rock-paper-scissors-student.ipynb). You can share your answer in the notebook at this link: [https://colab.research.google.com/drive/1CE0shxDkEyxWyRaFB8FD1AxqLoeXMB7M?usp=sharing](https://colab.research.google.com/drive/1CE0shxDkEyxWyRaFB8FD1AxqLoeXMB7M?usp=sharing)
   - [open slot-machine-student.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week04/slot-machine-student.ipynb). You can share your answer in the notebook at this link: [https://colab.research.google.com/drive/1uLV-DOIF7NGfT222AyUn-DxANIBw_rqB?usp=sharing](https://colab.research.google.com/drive/1uLV-DOIF7NGfT222AyUn-DxANIBw_rqB?usp=sharing)
+  - [open conditionals-practice.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week04/conditionals-practice.ipynb)
 
 ## In class
 
