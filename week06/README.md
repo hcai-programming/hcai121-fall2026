@@ -14,7 +14,9 @@
 
 - Notebooks:
   - [open lists.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week06/lists.ipynb).
+  - [open lists-advanced.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week06/lists-advanced.ipynb).
 
+  - Click here for the gallery to upload solutions to questions in the above notebooks: [https://colab.research.google.com/drive/1ctbe_OBHYLTNdcIbKBI0_zV0enQzODZr?usp=sharing](https://colab.research.google.com/drive/1ctbe_OBHYLTNdcIbKBI0_zV0enQzODZr?usp=sharing)
 
 
 ## In class
