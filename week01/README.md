@@ -13,7 +13,7 @@
 
 ## Materials
 
-- Slides — `lec1-introduction.pdf`
+- Slides [lec1-introduction.pdf](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week01/lec1-introduction.pdf)
 - Notebooks:
   - [open 01-first-steps.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week01/01-first-steps.ipynb)
   - [open 02-names-objects.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week01/02-names-objects.ipynb)
