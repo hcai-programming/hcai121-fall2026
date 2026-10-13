@@ -11,8 +11,8 @@
 
 ## Materials
 
-- [Review sheet](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week07/midterm-review.pdf).
-- [Review sheet answer key](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week07/midterm-question-answers.pdf).
+- [Review sheet](https://github.com/hcai-programming/hcai121-fall2026/blob/main/week07/midterm-review.pdf).
+- [Review sheet answer key](https://github.com/hcai-programming/hcai121-fall2026/blob/main/week07/midterm-question-answers.pdf).
 
 
 
