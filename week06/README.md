@@ -23,8 +23,6 @@
 
 Bring a laptop. We'll write and run code together in Colab. Open the notebook link above and follow along.
 
-You don't need to install anything for the first class.  Colab runs in your browser.
-
 
 ## This week's work
 
