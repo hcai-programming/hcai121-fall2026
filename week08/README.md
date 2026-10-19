@@ -13,8 +13,12 @@
 
 ## Materials
 
+- Notebooks:
+  - [open tuples-dicts-enumeate-zip.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week08/tuples-dicts-enumerate-zip.ipynb).
 
+  - [open world-project.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week08/world-project.ipynb).
 
+- Use this link to upload your in-class solutions: [https://colab.research.google.com/drive/1c5ED09s2PF4rXmucKAtYQ1-D1OVI9q6g?usp=sharing](https://colab.research.google.com/drive/1c5ED09s2PF4rXmucKAtYQ1-D1OVI9q6g?usp=sharing)
 
 ## In class
 
