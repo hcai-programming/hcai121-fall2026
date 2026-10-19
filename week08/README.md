@@ -20,6 +20,8 @@
 
 - Use this link to upload your in-class solutions: [https://colab.research.google.com/drive/1c5ED09s2PF4rXmucKAtYQ1-D1OVI9q6g?usp=sharing](https://colab.research.google.com/drive/1c5ED09s2PF4rXmucKAtYQ1-D1OVI9q6g?usp=sharing)
 
+- The quiz on Wednesday will ask exactly the three questions for this notebook: [open quiz-questions.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week08/quiz-questions.ipynb).  You will have to give the code by hand on paper, but you should practice your solutions at home before Wednesday.
+
 ## In class
 
 Bring a laptop. We'll write and run code together in Colab. Open the notebook link above and follow along.
