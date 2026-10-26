@@ -18,7 +18,7 @@
 
   - [open files-csv.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week09/files-csv.ipynb).
 
-  - [open world-project.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week09/world-project.ipynb).
+  - [open world-project.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week09/worldle-project.ipynb).
 
   - [open llm-intro.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week09/llm-intro.ipynb).
 
