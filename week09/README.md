@@ -2,7 +2,10 @@
 
 ## Topics
 
--
+- reading files
+- csv files
+- continue the wordle project
+- interacting with a local LLM
 
 ## Reading
 
