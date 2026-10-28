@@ -24,7 +24,7 @@
 
   - [open quiz6-answers.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week09/quiz6-answers.ipynb): This contains the solutions to the midterm.
 
-
+  - [https://colab.research.google.com/drive/1N59EOXJWcU4d-HljVlypciifx3mFWDiy?usp=sharing](https://colab.research.google.com/drive/1N59EOXJWcU4d-HljVlypciifx3mFWDiy?usp=sharing): Share your wordle answers
 ## In class
 
 Bring a laptop. We'll write and run code together in Colab. Open the notebook link above and follow along.
