@@ -19,7 +19,7 @@
 
   - [open wordle-classes.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week11/wordle-classes.ipynb).
 
-  - [open wordle-inheritence.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week11/wordle-inheritence.ipynb).
+  - [open wordle-inheritence.ipynb in Colab](https://colab.research.google.com/github/hcai-programming/hcai121-fall2026/blob/main/week11/wordle-inheritance.ipynb).
 
 
 ## In class
